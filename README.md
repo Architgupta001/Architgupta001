@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Archit Gupta</h1>
 <h3 align="center">A Self-motivated computer science engineer with keen interest in coding.!!</h3>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Architgupta001&label=Profile%20views&color=129e00&style=plastic" alt="Architgupta001" /> </p>
 
 
